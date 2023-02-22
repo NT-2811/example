@@ -43,7 +43,7 @@ To avoid not generating video.
 ```
 
 
-## Step 4: Build extension (optional)
+## Step 4: Build extension (optional).
 
 ```bash
   bash scripts/install_ext.sh
